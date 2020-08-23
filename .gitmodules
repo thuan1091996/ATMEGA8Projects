@@ -1,3 +1,45 @@
 [submodule "AM2301"]
 	path = AM2301
 	url = https://github.com/thuan1091996/AM2301.git
+[submodule "AM2315"]
+	path = AM2315
+	url = https://github.com/thuan1091996/AM2315.git
+[submodule "AM2315_TWI"]
+	path = AM2315_TWI
+	url = https://github.com/thuan1091996/AM2315_TWI.git
+[submodule "DC_Inverter"]
+	path = DC_Inverter
+	url = https://github.com/thuan1091996/DC_Inverter.git
+[submodule "Keypad_4x8"]
+	path = Keypad_4x8
+	url = https://github.com/thuan1091996/Keypad_4x8.git
+[submodule "ProjectTriac"]
+	path = ProjectTriac
+	url = https://github.com/thuan1091996/ProjectTriac-17_7_2019.git
+[submodule "ProjectTriac_ver2"]
+	path = ProjectTriac_ver2
+	url = https://github.com/thuan1091996/ProjectTriac_ver2.git
+[submodule "SHT20"]
+	path = SHT20
+	url = https://github.com/thuan1091996/SHT20.git
+[submodule "Sine_Wave1"]
+	path = Sine_Wave1
+	url = https://github.com/thuan1091996/Sine_Wave1.git
+[submodule "Sine_Wave2"]
+	path = Sine_Wave2
+	url = https://github.com/thuan1091996/Sine_Wave2.git
+[submodule "SPI_COMMUNICATION"]
+	path = SPI_COMMUNICATION
+	url = https://github.com/thuan1091996/SPI_COMMUNICATION.git
+[submodule "Test_Timer_Mode"]
+	path = Test_Timer_Mode
+	url = https://github.com/thuan1091996/Test_Timer_Mode.git
+[submodule "UART"]
+	path = UART
+	url = https://github.com/thuan1091996/UART.git
+[submodule "ProjectTriac_Final_TRANG_6_4_2019"]
+	path = ProjectTriac_Final_TRANG_6_4_2019
+	url = https://github.com/thuan1091996/ProjectTriac_Final_TRANG_6_4_2019.git
+[submodule "ProjectTriac_17_7_2019"]
+	path = ProjectTriac_17_7_2019
+	url = https://github.com/thuan1091996/ProjectTriac-17_7_2019.git
